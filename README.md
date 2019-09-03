@@ -2,9 +2,9 @@
 
 ## 本仓库内容
 
-1.GitPage入门学习笔记
-2.NodeJS基本使用
-3.Hexo入门搞事情笔记
+1. GitPage入门学习笔记
+2. NodeJS基本使用
+3. Hexo入门搞事情笔记
 
 ```
 Something I hope you know before go into the coding~
