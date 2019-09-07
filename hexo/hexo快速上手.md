@@ -81,7 +81,7 @@ hexo generate
 ## hexo博客远端部署
 
 
-GitHub新建固定命名规范的仓库
+GitHub新建固定命名规范的仓库，仓库名为：<Github账号名称>.github.io
 
 ![20190905_105557_15](image/20190905_105557_15.png)
 
@@ -115,7 +115,13 @@ hexo deploy
 
 ![20190905_110107_54](image/20190905_110107_54.png)
 
-hexo默认主题landscape
+hexo默认主题landscape，推荐以下主题：
+* snippet
+* Hiero
+* JSimple
+* BlueLake
+
+详见：<https://github.com/search?q=hexo-theme>
 
 ![20190905_110135_81](image/20190905_110135_81.png)
 

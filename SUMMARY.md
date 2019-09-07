@@ -11,3 +11,4 @@
     * [hexo基本原理](hexo/hexo基本原理.md)
     * [hexo快速上手](hexo/hexo快速上手.md)
     * [hexo主题](hexo/hexo主题.md)
+* [hexo-theme-next主题](next/hexo-theme-next主题.md)
